@@ -8,7 +8,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class Config {
-    protected static String token = "OTA4NDczOTkxOTA2MzQ0OTYw.YY2QVg.RiJuAVSmNTQTGZPdoIMVHRYOL7E";
+    protected static String token = "OTA4NDczOTkxOTA2MzQ0OTYw.G7DSIk.LfFehjFuyLkAGjsXoYvbMSbeGPy5JgVHrpeuao";
     private static String prefix = "!";
     private static float version = 1.0f;
     
