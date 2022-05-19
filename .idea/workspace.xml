@@ -4,43 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45151b75-8c5c-4ef6-a023-69a5ab7a9089" name="Changes" comment="This is the final update hopefully">
-      <change afterPath="$PROJECT_DIR$/employees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muted.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/banos/bot/command/commands/KickCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Banos_Bot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="45151b75-8c5c-4ef6-a023-69a5ab7a9089" name="Changes" comment="I added a kick command with the same functionality as the ban command">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/banos/bot/CommandManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/banos/bot/CommandManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/banos/bot/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/banos/bot/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/banos/bot/command/ICommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/banos/bot/command/ICommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/banos/bot/listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/banos/bot/listener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/Banos_Bot-1.1.0-SNAPSHOT.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Banos_Bot-1.1.0-SNAPSHOT-all.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/CommandManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/CommandManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/command/ICommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/command/ICommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/command/commands/BanCmd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/command/commands/BanCmd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/command/commands/UnbanCmd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/command/commands/UnbanCmd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/listener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/banos/bot/utility/error.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/banos/bot/utility/error.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/banos/bot/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banos/bot/CommandManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/banos/bot/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banos/bot/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/banos/bot/command/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banos/bot/command/ICommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/banos/bot/listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banos/bot/listener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +137,7 @@
       <recent name="banos.bot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.Banos_Bot [shadowJar]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="banos.bot.Main" />
       <module name="Banos_Bot.main" />
@@ -258,8 +223,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.Banos_Bot [shadowJar]" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.Banos_Bot [stage]" />
         <item itemvalue="Gradle.Banos_Bot [wrapper]" />
         <item itemvalue="Application.test" />
@@ -315,7 +280,9 @@
       <workItem from="1652414027445" duration="202000" />
       <workItem from="1652658726097" duration="509000" />
       <workItem from="1652659289627" duration="1015000" />
-      <workItem from="1652753774499" duration="619000" />
+      <workItem from="1652753774499" duration="1339000" />
+      <workItem from="1652755805852" duration="285000" />
+      <workItem from="1652927562969" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="STUFF">
       <created>1637122246925</created>
@@ -394,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649561298601</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="I added a kick command with the same functionality as the ban command">
+      <created>1652754479892</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652754479892</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +390,8 @@
     <MESSAGE value="STUFF" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;token.txt" />
     <MESSAGE value="This is the final update hopefully" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the final update hopefully" />
+    <MESSAGE value="I added a kick command with the same functionality as the ban command" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added a kick command with the same functionality as the ban command" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
