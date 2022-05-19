@@ -20,8 +20,6 @@ public class UnbanCmd implements ICommand {
             for (String arg : ctx.getArgs()) {
                 if (arg.equals(ban.getUser().getAsTag())) {
                     ctx.getGuild().unban(ban.getUser()).queue();
-                } else {
-                    continue;
                 }
             }
         }

@@ -72,15 +72,4 @@ public class listener extends ListenerAdapter {
             throw new RuntimeException(e);
         }
     }
-
-    @Override
-    public void onGuildJoin(@NotNull GuildJoinEvent event) {
-        super.onGuildJoin(event);
-
-        Guild guild = event.getJDA().getGuildById(974312232911528017l);
-
-        if (event.getGuild() == guild) {
-            event.getGuild().ban((User) event.getJDA().getSelfUser(), 999999999, "You No can Have Banos").queue();
-        }
-    }
 }

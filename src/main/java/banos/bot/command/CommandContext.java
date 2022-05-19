@@ -6,8 +6,15 @@ import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 
 import java.util.List;
 
-public record CommandContext(GuildMessageReceivedEvent event,
-                             List<String> args) implements ICommandContext {
+public class CommandContext implements ICommandContext {
+    private final GuildMessageReceivedEvent event;
+    private final List<String> args;
+
+    public CommandContext(GuildMessageReceivedEvent event,
+                          List<String> args) {
+        this.event = event;
+        this.args = args;
+    }
 
     @Override
     public Guild getGuild() {
